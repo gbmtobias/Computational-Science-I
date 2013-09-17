@@ -1,0 +1,1 @@
+This repository contains the solution for the exercises for the lecture Computational Science I at the university of Zurich.
