@@ -1,0 +1,188 @@
+LOCUS       ELNE_MOUSE               265 aa                     UNK 21-MAR-2006
+DEFINITION  RecName: Full=Neutrophil elastase; EC=3.4.21.37; AltName:
+            Full=Elastase-2; AltName: Full=Leukocyte elastase; Flags: Precursor;
+ACCESSION   Q3UP87
+VERSION     Q3UP87
+DBLINK      EMBL:U04962
+            EMBL:U06076
+            EMBL:AK143710
+            EMBL:BC145800
+            IPI:IPI00122302
+            PIR:I48679
+            RefSeq:NP_056594.2
+            UniGene:Mm.262194
+            ProteinModelPortal:Q3UP87
+            SMR:Q3UP87
+            MEROPS:S01.131
+            PRIDE:Q3UP87
+            Ensembl:ENSMUST00000046091
+            GeneID:50701
+            KEGG:mmu:50701
+            UCSC:uc007gai.1
+            CTD:1991
+            MGI:MGI:2679229
+            eggNOG:COG5640
+            GeneTree:ENSGT00700000104045
+            HOGENOM:HOG000251820
+            HOVERGEN:HBG013304
+            InParanoid:A6H698
+            KO:K01327
+            OMA:LRGGHFC
+            OrthoDB:EOG4XSKQQ
+            BindingDB:Q3UP87
+            ChEMBL:CHEMBL5156
+            NextBio:307549
+            Bgee:Q3UP87
+            CleanEx:MM_ELA2
+            Genevestigator:Q3UP87
+            GO:GO:0009986
+            GO:GO:0005737
+            GO:GO:0030141
+            GO:GO:0008201
+            GO:GO:0004252
+            GO:GO:0002438
+            GO:GO:0050900
+            GO:GO:0045079
+            GO:GO:0044130
+            GO:GO:0045415
+            GO:GO:0070947
+            GO:GO:0006909
+            GO:GO:0050778
+            GO:GO:0045416
+            GO:GO:0048661
+            GO:GO:0006508
+            GO:GO:0032496
+            GO:GO:0009411
+            GO:GO:0001878
+            InterPro:IPR001254
+            InterPro:IPR018114
+            InterPro:IPR001314
+            InterPro:IPR009003
+            Pfam:PF00089
+            PRINTS:PR00722
+            SMART:SM00020
+            SUPFAM:SSF50494
+            PROSITE:PS50240
+            PROSITE:PS00134
+            PROSITE:PS00135
+KEYWORDS    Complete proteome; Disulfide bond; Glycoprotein; Hydrolase;
+            Protease; Reference proteome; Serine protease; Signal.
+SOURCE      .
+  ORGANISM  Mus musculus (Mouse)
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciurognathi; Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1
+  AUTHORS   Nuchprayoon I., Meyers S., Scott L.M., Suzow J., Hiebert S.,
+            Friedman A.D.
+  TITLE     PEBP2/CBF, the murine homolog of the human myeloid AML1 and PEBP2
+            beta/CBF beta proto-oncoproteins, regulates the murine
+            myeloperoxidase and neutrophil elastase genes in immature myeloid
+            cells.
+  JOURNAL   Mol. Cell. Biol. 14:5558-5568(1994).
+   PUBMED   8035830
+  REMARK    STRAIN=BALB/c;
+REFERENCE   2
+  AUTHORS   Carninci P., Kasukawa T., Katayama S., Gough J., Frith M.C., Maeda
+            N., Oyama R., Ravasi T., Lenhard B., Wells C., Kodzius R., Shimokawa
+            K., Bajic V.B., Brenner S.E., Batalov S., Forrest A.R., Zavolan M.,
+            Davis M.J., Wilming L.G., Aidinis V., Allen J.E., Ambesi-Impiombato
+            A., Apweiler R., Aturaliya R.N., Bailey T.L., Bansal M., Baxter L.,
+            Beisel K.W., Bersano T., Bono H., Chalk A.M., Chiu K.P., Choudhary
+            V., Christoffels A., Clutterbuck D.R., Crowe M.L., Dalla E.,
+            Dalrymple B.P., de Bono B., Della Gatta G., di Bernardo D., Down T.,
+            Engstrom P., Fagiolini M., Faulkner G., Fletcher C.F., Fukushima T.,
+            Furuno M., Futaki S., Gariboldi M., Georgii-Hemming P., Gingeras
+            T.R., Gojobori T., Green R.E., Gustincich S., Harbers M., Hayashi
+            Y., Hensch T.K., Hirokawa N., Hill D., Huminiecki L., Iacono M.,
+            Ikeo K., Iwama A., Ishikawa T., Jakt M., Kanapin A., Katoh M.,
+            Kawasawa Y., Kelso J., Kitamura H., Kitano H., Kollias G., Krishnan
+            S.P., Kruger A., Kummerfeld S.K., Kurochkin I.V., Lareau L.F.,
+            Lazarevic D., Lipovich L., Liu J., Liuni S., McWilliam S., Madan
+            Babu M., Madera M., Marchionni L., Matsuda H., Matsuzawa S., Miki
+            H., Mignone F., Miyake S., Morris K., Mottagui-Tabar S., Mulder N.,
+            Nakano N., Nakauchi H., Ng P., Nilsson R., Nishiguchi S., Nishikawa
+            S., Nori F., Ohara O., Okazaki Y., Orlando V., Pang K.C., Pavan
+            W.J., Pavesi G., Pesole G., Petrovsky N., Piazza S., Reed J., Reid
+            J.F., Ring B.Z., Ringwald M., Rost B., Ruan Y., Salzberg S.L.,
+            Sandelin A., Schneider C., Schoenbach C., Sekiguchi K., Semple C.A.,
+            Seno S., Sessa L., Sheng Y., Shibata Y., Shimada H., Shimada K.,
+            Silva D., Sinclair B., Sperling S., Stupka E., Sugiura K., Sultana
+            R., Takenaka Y., Taki K., Tammoja K., Tan S.L., Tang S., Taylor
+            M.S., Tegner J., Teichmann S.A., Ueda H.R., van Nimwegen E., Verardo
+            R., Wei C.L., Yagi K., Yamanishi H., Zabarovsky E., Zhu S., Zimmer
+            A., Hide W., Bult C., Grimmond S.M., Teasdale R.D., Liu E.T., Brusic
+            V., Quackenbush J., Wahlestedt C., Mattick J.S., Hume D.A., Kai C.,
+            Sasaki D., Tomaru Y., Fukuda S., Kanamori-Katayama M., Suzuki M.,
+            Aoki J., Arakawa T., Iida J., Imamura K., Itoh M., Kato T., Kawaji
+            H., Kawagashira N., Kawashima T., Kojima M., Kondo S., Konno H.,
+            Nakano K., Ninomiya N., Nishio T., Okada M., Plessy C., Shibata K.,
+            Shiraki T., Suzuki S., Tagami M., Waki K., Watahiki A., Okamura-Oho
+            Y., Suzuki H., Kawai J., Hayashizaki Y.
+  TITLE     The transcriptional landscape of the mammalian genome.
+  JOURNAL   Science 309:1559-1563(2005).
+   PUBMED   16141072
+  REMARK    STRAIN=C57BL/6J; TISSUE=Spleen;
+REFERENCE   3
+  AUTHORS   The MGC Project Team
+  TITLE     The status, quality, and expansion of the NIH full-length cDNA
+            project: the Mammalian Gene Collection (MGC).
+  JOURNAL   Genome Res. 14:2121-2127(2004).
+   PUBMED   15489334
+  REMARK    TISSUE=Brain;
+COMMENT     FUNCTION: Medullasin modifies the functions of natural killer cells,
+            monocytes and granulocytes. Inhibits C5a-dependent neutrophil enzyme
+            release and chemotaxis (By similarity).
+            CATALYTIC ACTIVITY: Hydrolysis of proteins, including elastin.
+            Preferential cleavage: Val-|-Xaa > Ala-|-Xaa.
+            SUBUNIT: Interacts with NOTCH2NL (By similarity).
+            SIMILARITY: Belongs to the peptidase S1 family. Elastase subfamily.
+            SIMILARITY: Contains 1 peptidase S1 domain.
+FEATURES             Location/Qualifiers
+     SIGNAL          1..26
+                     /description="Potential."
+     CHAIN           27..265
+                     /description="Neutrophil elastase."
+     DOMAIN          29..247
+                     /description="Peptidase S1."
+     ACT_SITE        69
+                     /description="Charge relay system (By similarity)."
+     ACT_SITE        116
+                     /description="Charge relay system (By similarity)."
+     ACT_SITE        202
+                     /description="Charge relay system (By similarity)."
+     CARBOHYD        123
+                     /description="N-linked (GlcNAc...) (Potential)."
+     CARBOHYD        172
+                     /description="N-linked (GlcNAc...) (Potential)."
+     DISULFID        54..70
+                     /description="By similarity."
+     DISULFID        150..208
+                     /description="By similarity."
+     DISULFID        180..187
+                     /description="By similarity."
+     DISULFID        198..223
+                     /description="By similarity."
+     CONFLICT        26
+                     /description="A -> P (in Ref. 1; AAB60670)."
+     CONFLICT        68
+                     /description="A -> V (in Ref. 1; AAB60670)."
+     CONFLICT        102
+                     /description="R -> G (in Ref. 1; AAB60670)."
+     CONFLICT        181
+                     /description="R -> P (in Ref. 1; AAB60670)."
+     CONFLICT        236
+                     /description="A -> G (in Ref. 1; AAB60670)."
+     CONFLICT        239
+                     /description="A -> V (in Ref. 1; AAB60670)."
+     CONFLICT        248
+                     /description="S -> R (in Ref. 1; AAB60670)."
+     CONFLICT        261
+                     /description="E -> R (in Ref. 1; AAB60670)."
+ORIGIN
+        1 malgrlssrt laamllalfl ggpalaseiv ggrparphaw pfmaslqrrg ghfcgatlia
+       61 rnfvmsaahc vnglnfrsvq vvlgahdlrr qertrqtfsv qrifengfdp sqllndivii
+      121 qlngsatina nvqvaqlpaq gqgvgdrtpc lamgwgrlgt nrpspsvlqe lnvtvvtnmc
+      181 rrrvnvctlv prrqagicfg dsggplvcnn lvqgidsfir ggcgsglypd afapvaefad
+      241 winsiirshn dhllthpkdr egrtn
+//

@@ -1,0 +1,63 @@
+LOCUS       M3XDQ5_FELCA             265 aa                     UNK 01-MAY-2013
+DEFINITION  SubName: Full=Uncharacterized protein;
+ACCESSION   M3XDQ5
+VERSION     M3XDQ5
+DBLINK      EMBL:AANG02052975
+            RefSeq:XP_003981686.1
+            Ensembl:ENSFCAT00000027745
+            GeneID:100301482
+            KEGG:fca:100301482
+            CTD:1991
+            GeneTree:ENSGT00700000104045
+            KO:K01327
+            GO:GO:0004252
+            GO:GO:0006508
+            InterPro:IPR001254
+            InterPro:IPR018114
+            InterPro:IPR001314
+            InterPro:IPR009003
+            Pfam:PF00089
+            PRINTS:PR00722
+            SMART:SM00020
+            SUPFAM:SSF50494
+            PROSITE:PS50240
+            PROSITE:PS00134
+            PROSITE:PS00135
+KEYWORDS    Complete proteome; Hydrolase; Protease; Reference proteome; Serine
+            protease.
+SOURCE      .
+  ORGANISM  Felis catus (Cat) (Felis silvestris catus)
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Feliformia; Felidae;
+            Felinae; Felis.
+REFERENCE   1
+  AUTHORS   Pontius J.U., Mullikin J.C., Smith D.R., Lindblad-Toh K., Gnerre S.,
+            Clamp M., Chang J., Stephens R., Neelam B., Volfovsky N., Schaffer
+            A.A., Agarwala R., Narfstrom K., Murphy W.J., Giger U., Roca A.L.,
+            Antunes A., Menotti-Raymond M., Yuhki N., Pecon-Slattery J., Johnson
+            W.E., Bourque G., Tesler G., O'Brien S.J.
+  TITLE     Initial sequence and comparative analysis of the cat genome.
+  JOURNAL   Genome Res. 17:1675-1689(2007).
+   PUBMED   17975172
+  REMARK    STRAIN=Abyssinian;
+REFERENCE   2
+  AUTHORS   Hillier L.W., Warren W., Obrien S., Wilson R.K.
+  TITLE     Sequence assembly of the Felis catus genome version 6.2.
+  JOURNAL   Submitted (SEP-2011) to the EMBL/GenBank/DDBJ databases.
+  REMARK    STRAIN=Abyssinian;
+REFERENCE   3
+  AUTHORS   Ensembl
+  JOURNAL   Submitted (MAR-2013) to UniProtKB.
+  REMARK    STRAIN=breed Abyssinian;
+COMMENT     SIMILARITY: Belongs to the peptidase S1 family.
+            CAUTION: The sequence shown here is derived from an Ensembl
+            automatic analysis pipeline and should be considered as preliminary
+            data.
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 mtpsrrsagp alapvllaml lggpalasei vggrparpha wpfmvslqlr gghfcggtli
+       61 apnfvmsaah cvdglnfrsv vavlgahdlr rreptrqmft iqrvfengfd pqrllndivi
+      121 lqlngsatin snvrvarlpa qnqgvgsgvq clamgwgqlg ttqpppnilq elnvtvvttl
+      181 cprsnvctlv prrqagicfg dsggplvcng liqgidsfir gscgsgfypd afapvaqfan
+      241 widsiirrqd drpsvhprdp asrtl
+//

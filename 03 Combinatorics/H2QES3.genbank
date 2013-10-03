@@ -1,0 +1,51 @@
+LOCUS       H2QES3_PANTR             247 aa                     UNK 21-MAR-2012
+DEFINITION  SubName: Full=Uncharacterized protein;
+ACCESSION   H2QES3
+VERSION     H2QES3
+DBLINK      EMBL:AACZ03120447
+            EMBL:AACZ03120448
+            ProteinModelPortal:H2QES3
+            Ensembl:ENSPTRT00000018623
+            GeneTree:ENSGT00700000104045
+            OMA:LRGGHFC
+            GO:GO:0004252
+            GO:GO:0006508
+            InterPro:IPR001254
+            InterPro:IPR018114
+            InterPro:IPR001314
+            InterPro:IPR009003
+            Pfam:PF00089
+            PRINTS:PR00722
+            SMART:SM00020
+            SUPFAM:SSF50494
+            PROSITE:PS50240
+            PROSITE:PS00134
+            PROSITE:PS00135
+KEYWORDS    Complete proteome; Hydrolase; Protease; Reference proteome; Serine
+            protease.
+SOURCE      .
+  ORGANISM  Pan troglodytes (Chimpanzee)
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pan.
+REFERENCE   1
+  AUTHORS   Chimpanzee sequencing and analysis consortium
+  TITLE     Initial sequence of the chimpanzee genome and comparison with the
+            human genome.
+  JOURNAL   Nature 437:69-87(2005).
+   PUBMED   16136131
+REFERENCE   2
+  AUTHORS   Ensembl
+  JOURNAL   Submitted (FEB-2012) to UniProtKB.
+COMMENT     SIMILARITY: Belongs to the peptidase S1 family.
+            CAUTION: The sequence shown here is derived from an Ensembl
+            automatic analysis pipeline and should be considered as preliminary
+            data.
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 mtlgrrlacl flacvlpall lggtalasei vggrrarpha wpfmvslqlr gghfcgatli
+       61 apnfvmsaah cvanvvravr vgahlsrrep trqvfavqri kglngsatin anvqvaqlpa
+      121 qgrhlgngvq clamgwgllg rnrgiasvlq elnvtvvtsl crrsnvctlv rgrragvcfg
+      181 dsgsplvcng lihgiasfvr ggcasglypd afapvaqfvn winsiiqrse dnpcphprdp
+      241 dpasrth
+//

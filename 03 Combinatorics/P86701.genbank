@@ -1,0 +1,59 @@
+LOCUS       IBB1_LATSA                53 aa                     UNK 05-SEP-2012
+DEFINITION  RecName: Full=Bowman-Birk type proteinase inhibitor 1; AltName:
+            Full=LSI-1; Flags: Fragments;
+ACCESSION   P86701
+VERSION     P86701
+DBLINK      GO:GO:0005576
+            GO:GO:0004867
+            Gene3D:2.10.69.10
+            InterPro:IPR000877
+            Pfam:PF00228
+            SMART:SM00269
+            SUPFAM:SSF57247
+            PROSITE:PS00281
+KEYWORDS    Direct protein sequencing; Disulfide bond; Protease inhibitor;
+            Serine protease inhibitor.
+SOURCE      .
+  ORGANISM  Lathyrus sativus (Chickling vetch)
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; core eudicotyledons;
+            rosids; fabids; Fabales; Fabaceae; Papilionoideae; Fabeae; Lathyrus.
+REFERENCE   1
+  AUTHORS   Rocco M., Malorni L., Chambery A., Poerio E., Parente A., Di Maro A.
+  TITLE     A Bowman-Birk inhibitor with anti-elastase activity from Lathyrus
+            sativus L. seeds.
+  JOURNAL   Mol. Biosyst. 7:2500-2507(2011).
+   PUBMED   21647515
+  REMARK    TISSUE=Seed;
+COMMENT     FUNCTION: Inhibits trypsin (IC(50)=6.20 nM), neutrophil elastase
+            (ELANE) and, to a lesser extent, alpha-chymotrypsin (IC(50)=3.44
+            uM).
+            SUBUNIT: Dimer (Probable).
+            MASS SPECTROMETRY: Mass=7914.4; Method=Electrospray; Range=1-?;
+            Source=PubMed:21647515;
+            SIMILARITY: Belongs to the Bowman-Birk serine protease inhibitor
+            family.
+FEATURES             Location/Qualifiers
+     CHAIN           1..>53
+                     /description="Bowman-Birk type proteinase inhibitor 1."
+     SITE            16..17
+                     /description="Reactive bond for trypsin (By similarity)."
+     DISULFID        7..>7
+                     /description="By similarity."
+     DISULFID        9..24
+                     /description="By similarity."
+     DISULFID        12..51
+                     /description="By similarity."
+     DISULFID        14..22
+                     /description="By similarity."
+     DISULFID        31..38
+                     /description="By similarity."
+     DISULFID        40..48
+                     /description="By similarity."
+     NON_CONS        49..50
+                     /description
+     NON_TER         53
+                     /description
+ORIGIN
+        1 gddvksaccd tclctksnpp icrcvdiret chsacnscvc tasippqcrf cyk
+//

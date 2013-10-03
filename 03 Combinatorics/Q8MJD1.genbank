@@ -1,0 +1,135 @@
+LOCUS       Q8MJD1_CANFA             282 aa                     UNK 01-OCT-2002
+DEFINITION  SubName: Full=Neutrophil elastase; SubName: Full=Uncharacterized
+            protein;
+ACCESSION   Q8MJD1
+VERSION     Q8MJD1
+DBLINK      EMBL:AAEX03012673
+            EMBL:AF494190
+            EMBL:AY221639
+            PIR:A60551
+            RefSeq:NP_001003378.1
+            UniGene:Cfa.68
+            STRING:9615.ENSCAFP00000029100
+            MEROPS:S01.131
+            Ensembl:ENSCAFT00000031271
+            GeneID:442980
+            KEGG:cfa:442980
+            CTD:1991
+            eggNOG:COG5640
+            GeneTree:ENSGT00700000104045
+            HOGENOM:HOG000251820
+            HOVERGEN:HBG013304
+            KO:K01327
+            OMA:LRGGHFC
+            NextBio:20831651
+            GO:GO:0009986
+            GO:GO:0030141
+            GO:GO:0008201
+            GO:GO:0004252
+            GO:GO:0002438
+            GO:GO:0050900
+            GO:GO:0045079
+            GO:GO:0044130
+            GO:GO:0045415
+            GO:GO:0070947
+            GO:GO:0006909
+            GO:GO:0050778
+            GO:GO:0045416
+            GO:GO:0048661
+            GO:GO:0006508
+            GO:GO:0032496
+            GO:GO:0009411
+            GO:GO:0001878
+            InterPro:IPR001254
+            InterPro:IPR018114
+            InterPro:IPR001314
+            InterPro:IPR009003
+            Pfam:PF00089
+            PRINTS:PR00722
+            SMART:SM00020
+            SUPFAM:SSF50494
+            PROSITE:PS50240
+            PROSITE:PS00134
+            PROSITE:PS00135
+KEYWORDS    Complete proteome; Hydrolase; Protease; Reference proteome; Serine
+            protease.
+SOURCE      .
+  ORGANISM  Canis familiaris (Dog) (Canis lupus familiaris)
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Laurasiatheria; Carnivora; Caniformia; Canidae;
+            Canis.
+REFERENCE   1
+  AUTHORS   Axelsson L., Bergenfeldt M., Bjork P., Olsson R., Ohlsson K.
+  TITLE     Release of immunoreactive canine leukocyte elastase normally and in
+            endotoxin and pancreatitic shock.
+  JOURNAL   Scand. J. Clin. Lab. Invest. 50:35-42(1990).
+   PUBMED   1690443
+REFERENCE   2
+  AUTHORS   Katen L.J., Aprikyan A.G., Dale D.C., Osborne W.R.
+  TITLE     Cloning and sequencing of the canine neutrophil elastase cDNA.
+  JOURNAL   DNA Seq. 13:221-223(2002).
+   PUBMED   12487025
+REFERENCE   3
+  AUTHORS   Benson K.F., Albani D., Person R.E., Horwitz M.
+  JOURNAL   Submitted (JAN-2003) to the EMBL/GenBank/DDBJ databases.
+REFERENCE   4
+  AUTHORS   Broad Sequencing Platform; Lindblad-Toh K., Wade C.M., Mikkelsen
+            T.S., Karlsson E.K., Jaffe D.B., Kamal M., Clamp M., Chang J.L.,
+            Kulbokas E.J. III, Zody M.C., Mauceli E., Xie X., Breen M., Wayne
+            R.K., Ostrander E.A., Ponting C.P., Galibert F., Smith D.R., deJong
+            P.J., Kirkness E.F., Alvarez P., Biagi T., Brockman W., Butler J.,
+            Chin C.-W., Cook A., Cuff J., Daly M.J., DeCaprio D., Gnerre S.,
+            Grabherr M., Kellis M., Kleber M., Bardeleben C., Goodstadt L.,
+            Heger A., Hitte C., Kim L., Koepfli K.-P., Parker H.G., Pollinger
+            J.P., Searle S.M.J., Sutter N.B., Thomas R., Webber C., Baldwin J.,
+            Abebe A., Abouelleil A., Aftuck L., Ait-Zahra M., Aldredge T., Allen
+            N., An P., Anderson S., Antoine C., Arachchi H., Aslam A., Ayotte
+            L., Bachantsang P., Barry A., Bayul T., Benamara M., Berlin A.,
+            Bessette D., Blitshteyn B., Bloom T., Blye J., Boguslavskiy L.,
+            Bonnet C., Boukhgalter B., Brown A., Cahill P., Calixte N., Camarata
+            J., Cheshatsang Y., Chu J., Citroen M., Collymore A., Cooke P.,
+            Dawoe T., Daza R., Decktor K., DeGray S., Dhargay N., Dooley K.,
+            Dooley K., Dorje P., Dorjee K., Dorris L., Duffey N., Dupes A.,
+            Egbiremolen O., Elong R., Falk J., Farina A., Faro S., Ferguson D.,
+            Ferreira P., Fisher S., FitzGerald M., Foley K., Foley C., Franke
+            A., Friedrich D., Gage D., Garber M., Gearin G., Giannoukos G.,
+            Goode T., Goyette A., Graham J., Grandbois E., Gyaltsen K., Hafez
+            N., Hagopian D., Hagos B., Hall J., Healy C., Hegarty R., Honan T.,
+            Horn A., Houde N., Hughes L., Hunnicutt L., Husby M., Jester B.,
+            Jones C., Kamat A., Kanga B., Kells C., Khazanovich D., Kieu A.C.,
+            Kisner P., Kumar M., Lance K., Landers T., Lara M., Lee W., Leger
+            J.-P., Lennon N., Leuper L., LeVine S., Liu J., Liu X., Lokyitsang
+            Y., Lokyitsang T., Lui A., Macdonald J., Major J., Marabella R.,
+            Maru K., Matthews C., McDonough S., Mehta T., Meldrim J., Melnikov
+            A., Meneus L., Mihalev A., Mihova T., Miller K., Mittelman R.,
+            Mlenga V., Mulrain L., Munson G., Navidi A., Naylor J., Nguyen T.,
+            Nguyen N., Nguyen C., Nguyen T., Nicol R., Norbu N., Norbu C., Novod
+            N., Nyima T., Olandt P., O'Neill B., O'Neill K., Osman S., Oyono L.,
+            Patti C., Perrin D., Phunkhang P., Pierre F., Priest M., Rachupka
+            A., Raghuraman S., Rameau R., Ray V., Raymond C., Rege F., Rise C.,
+            Rogers J., Rogov P., Sahalie J., Settipalli S., Sharpe T., Shea T.,
+            Sheehan M., Sherpa N., Shi J., Shih D., Sloan J., Smith C., Sparrow
+            T., Stalker J., Stange-Thomann N., Stavropoulos S., Stone C., Stone
+            S., Sykes S., Tchuinga P., Tenzing P., Tesfaye S., Thoulutsang D.,
+            Thoulutsang Y., Topham K., Topping I., Tsamla T., Vassiliev H.,
+            Venkataraman V., Vo A., Wangchuk T., Wangdi T., Weiand M., Wilkinson
+            J., Wilson A., Yadav S., Yang S., Yang X., Young G., Yu Q., Zainoun
+            J., Zembek L., Zimmer A., Lander E.S.
+  TITLE     Genome sequence, comparative analysis and haplotype structure of the
+            domestic dog.
+  JOURNAL   Nature 438:803-819(2005).
+   PUBMED   16341006
+  REMARK    STRAIN=Boxer;
+REFERENCE   5
+  AUTHORS   Ensembl
+  JOURNAL   Submitted (JUL-2011) to UniProtKB.
+  REMARK    STRAIN=Boxer;
+COMMENT     SIMILARITY: Belongs to the peptidase S1 family.
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 mtarrvpagp algpllllat llpgpalase ivggrpaqph awpfmvslqr rgghfcggtl
+       61 iapnfvmsaa hcvdglnfrs vvvvlgahdl gerestrqlf avqrvfengf dpvrlvndiv
+      121 llqlngsati nanvqvarlp aqnqgvgngv qclamgwgql gtaqpppril qelnvtvvtt
+      181 lcrrsnvctl vprrragicf gdsggplvcn gliqgidsfi rgscasgffp dafapvaqfv
+      241 dwinsiirrp palpparpgq qdpergaara pppaphrprp tq
+//

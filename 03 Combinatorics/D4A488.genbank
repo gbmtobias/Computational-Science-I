@@ -1,0 +1,136 @@
+LOCUS       D4A488_RAT               271 aa                     UNK 20-APR-2010
+DEFINITION  SubName: Full=Elastase 2, neutrophil (Predicted); SubName:
+            Full=Protein Elane;
+ACCESSION   D4A488
+VERSION     D4A488
+DBLINK      EMBL:AABR06047721
+            EMBL:CH474029
+            IPI:IPI00870794
+            RefSeq:NP_001100237.1
+            UniGene:Rn.90573
+            MEROPS:S01.131
+            Ensembl:ENSRNOT00000014981
+            GeneID:299606
+            KEGG:rno:299606
+            UCSC:RGD:1307968
+            CTD:1991
+            RGD:1307968
+            GeneTree:ENSGT00700000104045
+            KO:K01327
+            OrthoDB:EOG4XSKQQ
+            NextBio:645476
+            GO:GO:0009986
+            GO:GO:0030141
+            GO:GO:0008201
+            GO:GO:0004252
+            GO:GO:0002438
+            GO:GO:0050900
+            GO:GO:0045079
+            GO:GO:0044130
+            GO:GO:0045415
+            GO:GO:0070947
+            GO:GO:0006909
+            GO:GO:0050778
+            GO:GO:0045416
+            GO:GO:0048661
+            GO:GO:0006508
+            GO:GO:0032496
+            GO:GO:0009411
+            GO:GO:0001878
+            InterPro:IPR001254
+            InterPro:IPR018114
+            InterPro:IPR001314
+            InterPro:IPR009003
+            Pfam:PF00089
+            PRINTS:PR00722
+            SMART:SM00020
+            SUPFAM:SSF50494
+            PROSITE:PS50240
+            PROSITE:PS00134
+            PROSITE:PS00135
+KEYWORDS    Complete proteome; Hydrolase; Protease; Reference proteome; Serine
+            protease.
+SOURCE      .
+  ORGANISM  Rattus norvegicus (Rat)
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciurognathi; Muroidea; Muridae; Murinae; Rattus.
+REFERENCE   1
+  AUTHORS   Rat Genome Sequencing Project Consortium; Gibbs R.A., Weinstock
+            G.M., Metzker M.L., Muzny D.M., Sodergren E.J., Scherer S., Scott
+            G., Steffen D., Worley K.C., Burch P.E., Okwuonu G., Hines S., Lewis
+            L., Deramo C., Delgado O., Dugan-Rocha S., Miner G., Morgan M.,
+            Hawes A., Gill R., Holt R.A., Adams M.D., Amanatides P.G.,
+            Baden-Tillson H., Barnstead M., Chin S., Evans C.A., Ferriera S.,
+            Fosler C., Glodek A., Gu Z., Jennings D., Kraft C.L., Nguyen T.,
+            Pfannkoch C.M., Sitter C., Sutton G.G., Venter J.C., Woodage T.,
+            Smith D., Lee H.-M., Gustafson E., Cahill P., Kana A.,
+            Doucette-Stamm L., Weinstock K., Fechtel K., Weiss R.B., Dunn D.M.,
+            Green E.D., Blakesley R.W., Bouffard G.G., De Jong P.J., Osoegawa
+            K., Zhu B., Marra M., Schein J., Bosdet I., Fjell C., Jones S.,
+            Krzywinski M., Mathewson C., Siddiqui A., Wye N., McPherson J., Zhao
+            S., Fraser C.M., Shetty J., Shatsman S., Geer K., Chen Y., Abramzon
+            S., Nierman W.C., Havlak P.H., Chen R., Durbin K.J., Egan A., Ren
+            Y., Song X.-Z., Li B., Liu Y., Qin X., Cawley S., Cooney A.J.,
+            D'Souza L.M., Martin K., Wu J.Q., Gonzalez-Garay M.L., Jackson A.R.,
+            Kalafus K.J., McLeod M.P., Milosavljevic A., Virk D., Volkov A.,
+            Wheeler D.A., Zhang Z., Bailey J.A., Eichler E.E., Tuzun E., Birney
+            E., Mongin E., Ureta-Vidal A., Woodwark C., Zdobnov E., Bork P.,
+            Suyama M., Torrents D., Alexandersson M., Trask B.J., Young J.M.,
+            Huang H., Wang H., Xing H., Daniels S., Gietzen D., Schmidt J.,
+            Stevens K., Vitt U., Wingrove J., Camara F., Mar Alba M., Abril
+            J.F., Guigo R., Smit A., Dubchak I., Rubin E.M., Couronne O.,
+            Poliakov A., Huebner N., Ganten D., Goesele C., Hummel O., Kreitler
+            T., Lee Y.-A., Monti J., Schulz H., Zimdahl H., Himmelbauer H.,
+            Lehrach H., Jacob H.J., Bromberg S., Gullings-Handley J.,
+            Jensen-Seaman M.I., Kwitek A.E., Lazar J., Pasko D., Tonellato P.J.,
+            Twigger S., Ponting C.P., Duarte J.M., Rice S., Goodstadt L.,
+            Beatson S.A., Emes R.D., Winter E.E., Webber C., Brandt P.,
+            Nyakatura G., Adetobi M., Chiaromonte F., Elnitski L., Eswara P.,
+            Hardison R.C., Hou M., Kolbe D., Makova K., Miller W., Nekrutenko
+            A., Riemer C., Schwartz S., Taylor J., Yang S., Zhang Y.,
+            Lindpaintner K., Andrews T.D., Caccamo M., Clamp M., Clarke L.,
+            Curwen V., Durbin R.M., Eyras E., Searle S.M., Cooper G.M.,
+            Batzoglou S., Brudno M., Sidow A., Stone E.A., Payseur B.A., Bourque
+            G., Lopez-Otin C., Puente X.S., Chakrabarti K., Chatterji S., Dewey
+            C., Pachter L., Bray N., Yap V.B., Caspi A., Tesler G., Pevzner
+            P.A., Haussler D., Roskin K.M., Baertsch R., Clawson H., Furey T.S.,
+            Hinrichs A.S., Karolchik D., Kent W.J., Rosenbloom K.R., Trumbower
+            H., Weirauch M., Cooper D.N., Stenson P.D., Ma B., Brent M.,
+            Arumugam M., Shteynberg D., Copley R.R., Taylor M.S., Riethman H.,
+            Mudunuri U., Peterson J., Guyer M., Felsenfeld A., Old S., Mockrin
+            S., Collins F.S.
+  TITLE     Genome sequence of the Brown Norway rat yields insights into
+            mammalian evolution.
+  JOURNAL   Nature 428:493-521(2004).
+   PUBMED   15057822
+  REMARK    STRAIN=Brown Norway;
+REFERENCE   2
+  AUTHORS   Florea L., Di Francesco V., Miller J., Turner R., Yao A., Harris M.,
+            Walenz B., Mobarry C., Merkulov G.V., Charlab R., Dew I., Deng Z.,
+            Istrail S., Li P., Sutton G.
+  TITLE     Gene and alternative splicing annotation with AIR.
+  JOURNAL   Genome Res. 15:54-66(2005).
+   PUBMED   15632090
+  REMARK    STRAIN=BN;
+REFERENCE   3
+  AUTHORS   Mural R.J., Li P.W., Adams M.D., Amanatides P.G., Baden-Tillson H.,
+            Barnstead M., Chin S.H., Dew I., Evans C.A., Ferriera S., Flanigan
+            M., Fosler C., Glodek A., Gu Z., Holt R.A., Jennings D., Kraft C.L.,
+            Lu F., Nguyen T., Nusskern D.R., Pfannkoch C.M., Sitter C., Sutton
+            G.G., Venter J.C., Wang Z., Woodage T., Zheng X.H., Zhong F.
+  JOURNAL   Submitted (JUL-2005) to the EMBL/GenBank/DDBJ databases.
+  REMARK    STRAIN=BN;
+REFERENCE   4
+  AUTHORS   Ensembl
+  JOURNAL   Submitted (JUL-2011) to UniProtKB.
+  REMARK    STRAIN=Brown Norway;
+COMMENT     SIMILARITY: Belongs to the peptidase S1 family.
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 mqptmalhrp snqtlasmll alllvcpala seivggrpaq phawpfmvsl qrrgghfcga
+       61 tliarnfvms aahcvngrnf qsvqvvlgah dlrrreptrq ifsvqrifen gfdpsrllnd
+      121 iviiqlngsa tinanvqvae lpaqgqgvgn rtpcvamgwg rlgtnrplps vlqelnvtvv
+      181 tnlcrrrvnv ctlvprrqag icfgdsggpl vcnnlvqgid sfirggcgsg fypdafapva
+      241 efadwinsii rshddrpltn pkdreregrt n
+//

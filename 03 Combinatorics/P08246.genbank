@@ -1,0 +1,476 @@
+LOCUS       ELNE_HUMAN               267 aa                     UNK 01-AUG-1988
+DEFINITION  RecName: Full=Neutrophil elastase; EC=3.4.21.37; AltName: Full=Bone
+            marrow serine protease; AltName: Full=Elastase-2; AltName:
+            Full=Human leukocyte elastase; Short=HLE; AltName: Full=Medullasin;
+            AltName: Full=PMN elastase; Flags: Precursor;
+ACCESSION   P08246
+VERSION     P08246
+DBLINK      EMBL:Y00477
+            EMBL:M20203
+            EMBL:M20199
+            EMBL:M20200
+            EMBL:M20201
+            EMBL:M34379
+            EMBL:AY596461
+            EMBL:BC074816
+            EMBL:BC074817
+            EMBL:D00187
+            EMBL:X05875
+            EMBL:J03545
+            EMBL:M27783
+            IPI:IPI00027769
+            PIR:A31976
+            RefSeq:NP_001963.1
+            UniGene:Hs.99863
+            PDB:1B0F
+            PDB:1H1B
+            PDB:1HNE
+            PDB:1PPF
+            PDB:1PPG
+            PDB:2RG3
+            PDB:2Z7F
+            PDB:3Q76
+            PDB:3Q77
+            PDBsum:1B0F
+            PDBsum:1H1B
+            PDBsum:1HNE
+            PDBsum:1PPF
+            PDBsum:1PPG
+            PDBsum:2RG3
+            PDBsum:2Z7F
+            PDBsum:3Q76
+            PDBsum:3Q77
+            ProteinModelPortal:P08246
+            SMR:P08246
+            IntAct:P08246
+            MINT:MINT-1505052
+            STRING:9606.ENSP00000263621
+            MEROPS:S01.131
+            DMDM:119292
+            PaxDb:P08246
+            PeptideAtlas:P08246
+            PRIDE:P08246
+            Ensembl:ENST00000263621
+            Ensembl:ENST00000590230
+            GeneID:1991
+            KEGG:hsa:1991
+            UCSC:uc002lqb.3
+            CTD:1991
+            GeneCards:GC19P000852
+            HGNC:HGNC:3309
+            HPA:CAB015409
+            MIM:130130
+            MIM:162800
+            MIM:202700
+            neXtProt:NX_P08246
+            Orphanet:486
+            Orphanet:2686
+            PharmGKB:PA27735
+            eggNOG:COG5640
+            HOGENOM:HOG000251820
+            HOVERGEN:HBG013304
+            InParanoid:P08246
+            KO:K01327
+            OMA:LRGGHFC
+            OrthoDB:EOG4XSKQQ
+            PhylomeDB:P08246
+            BRENDA:3.4.21.37
+            Reactome:REACT_118779
+            BindingDB:P08246
+            ChEMBL:CHEMBL248
+            DrugBank:DB00058
+            DrugBank:DB00099
+            DrugBank:DB00019
+            EvolutionaryTrace:P08246
+            GeneWiki:Neutrophil_elastase
+            GenomeRNAi:1991
+            NextBio:8051
+            ArrayExpress:P08246
+            Bgee:P08246
+            CleanEx:HS_ELA2
+            Genevestigator:P08246
+            GO:GO:0009986
+            GO:GO:0005576
+            GO:GO:0030141
+            GO:GO:0004175
+            GO:GO:0008201
+            GO:GO:0004252
+            GO:GO:0002438
+            GO:GO:0006874
+            GO:GO:0030574
+            GO:GO:0022617
+            GO:GO:0050900
+            GO:GO:0045079
+            GO:GO:0050922
+            GO:GO:0044130
+            GO:GO:0050728
+            GO:GO:0045415
+            GO:GO:0070947
+            GO:GO:0006909
+            GO:GO:0050778
+            GO:GO:0045416
+            GO:GO:0043406
+            GO:GO:0048661
+            GO:GO:0030163
+            GO:GO:0006508
+            GO:GO:0032496
+            GO:GO:0009411
+            GO:GO:0001878
+            InterPro:IPR001254
+            InterPro:IPR018114
+            InterPro:IPR001314
+            InterPro:IPR009003
+            Pfam:PF00089
+            PRINTS:PR00722
+            SMART:SM00020
+            SUPFAM:SSF50494
+            PROSITE:PS50240
+            PROSITE:PS00134
+            PROSITE:PS00135
+KEYWORDS    3D-structure; Complete proteome; Direct protein sequencing; Disease
+            mutation; Disulfide bond; Glycoprotein; Hydrolase; Polymorphism;
+            Protease; Reference proteome; Serine protease; Signal; Zymogen.
+SOURCE      .
+  ORGANISM  Homo sapiens (Human)
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Nakamura H., Okano K., Aoki Y., Shimizu H., Naruto M.
+  TITLE     Nucleotide sequence of human bone marrow serine protease
+            (medullasin) gene.
+  JOURNAL   Nucleic Acids Res. 15:9601-9601(1987).
+   PUBMED   3479752
+REFERENCE   2
+  AUTHORS   Takahashi H., Nukiwa T., Yoshimura K., Quick C.D., States D.J.,
+            Holmes M.D., Whang-Peng J., Knutsen T., Crystal R.G.
+  TITLE     Structure of the human neutrophil elastase gene.
+  JOURNAL   J. Biol. Chem. 263:14739-14747(1988).
+   PUBMED   2902087
+REFERENCE   3
+  AUTHORS   Farley D., Travis J., Salvesen G.
+  TITLE     The human neutrophil elastase gene. Analysis of the nucleotide
+            sequence reveals three distinct classes of repetitive DNA.
+  JOURNAL   Biol. Chem. Hoppe-Seyler 370:737-744(1989).
+   PUBMED   2775493
+REFERENCE   4
+  AUTHORS   Okano K., Aoki Y., Shimizu H., Naruto M.
+  TITLE     Functional expression of human leukocyte elastase (HLE)/medullasin
+            in eukaryotic cells.
+  JOURNAL   Biochem. Biophys. Res. Commun. 167:1326-1332(1990).
+   PUBMED   2322278
+REFERENCE   5
+  AUTHORS   NIEHS SNPs program
+  JOURNAL   Submitted (APR-2004) to the EMBL/GenBank/DDBJ databases.
+REFERENCE   6
+  AUTHORS   The MGC Project Team
+  TITLE     The status, quality, and expansion of the NIH full-length cDNA
+            project: the Mammalian Gene Collection (MGC).
+  JOURNAL   Genome Res. 14:2121-2127(2004).
+   PUBMED   15489334
+  REMARK    TISSUE=Lung;
+REFERENCE   7
+  AUTHORS   Okano K., Aoki Y., Sakurai T., Kajitani M., Kanai S., Shimazu T.,
+            Shimizu H., Naruto M.
+  TITLE     Molecular cloning of complementary DNA for human medullasin: an
+            inflammatory serine protease in bone marrow cells.
+  JOURNAL   J. Biochem. 102:13-16(1987).
+   PUBMED   2822677
+REFERENCE   8
+  AUTHORS   Sinha S., Watorek W., Karr S., Giles J., Bode W., Travis J.
+  TITLE     Primary structure of human neutrophil elastase.
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 84:2228-2232(1987).
+   PUBMED   3550808
+REFERENCE   9
+  AUTHORS   Travis J., Giles P.J., Porcelli L., Reilly C.F., Baugh R., Powers J.
+  JOURNAL   (In) Protein degradation in health and disease, Ciba Foundation
+            Symposium, pp.75:51-68, Excerpta Medica, Amsterdam and Oxford
+            (1980).
+REFERENCE   10
+  AUTHORS   Gabay J.E., Scott R.W., Campanelli D., Griffith J., Wilde C., Marra
+            M.N., Seeger M., Nathan C.F.
+  TITLE     Antibiotic proteins of human polymorphonuclear leukocytes.
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 86:5610-5614(1989).
+   PUBMED   2501794
+REFERENCE   11
+  AUTHORS   Gaskin G., Kendal H., Coulthart A., Turner N., Pusey C.D.
+  TITLE     Use of proteinase 3 purified by reverse phase HPLC to detect
+            autoantibodies in systemic vasculitis.
+  JOURNAL   J. Immunol. Methods 180:25-33(1995).
+   PUBMED   7897245
+  REMARK    TISSUE=Neutrophil;
+REFERENCE   12
+  AUTHORS   Takahashi H., Nukiwa T., Basset P., Cystal R.G.
+  TITLE     Myelomonocytic cell lineage expression of the neutrophil elastase
+            gene.
+  JOURNAL   J. Biol. Chem. 263:2543-2547(1988).
+   PUBMED   3422232
+REFERENCE   13
+  AUTHORS   Farley D., Salvesen G.S., Travis J.
+  TITLE     Molecular cloning of human neutrophil elastase.
+  JOURNAL   Biol. Chem. Hoppe-Seyler 369:3-7(1988).
+   PUBMED   2462434
+REFERENCE   14
+  AUTHORS   Aoki Y., Hase T.
+  TITLE     The primary structure and elastinolytic activity of medullasin (a
+            serine protease of bone marrow).
+  JOURNAL   Biochem. Biophys. Res. Commun. 178:501-506(1991).
+   PUBMED   1859409
+REFERENCE   15
+  AUTHORS   Tralau T., Meyer-Hoffert U., Schroder J.M., Wiedow O.
+  TITLE     Human leukocyte elastase and cathepsin G are specific inhibitors of
+            C5a-dependent neutrophil enzyme release and chemotaxis.
+  JOURNAL   Exp. Dermatol. 13:316-325(2004).
+   PUBMED   15140022
+REFERENCE   16
+  AUTHORS   Duan Z., Li F.-Q., Wechsler J., Meade-White K., Williams K., Benson
+            K.F., Horwitz M.
+  TITLE     A novel notch protein, N2N, targeted by neutrophil elastase and
+            implicated in hereditary neutropenia.
+  JOURNAL   Mol. Cell. Biol. 24:58-70(2004).
+   PUBMED   14673143
+REFERENCE   17
+  AUTHORS   Chen R., Jiang X., Sun D., Han G., Wang F., Ye M., Wang L., Zou H.
+  TITLE     Glycoproteomics analysis of human liver tissue by combination of
+            multiple enzyme digestion and hydrazide chemistry.
+  JOURNAL   J. Proteome Res. 8:651-661(2009).
+   PUBMED   19159218
+  REMARK    TISSUE=Liver;
+REFERENCE   18
+  AUTHORS   Burkard T.R., Planyavsky M., Kaupe I., Breitwieser F.P.,
+            Buerckstuemmer T., Bennett K.L., Superti-Furga G., Colinge J.
+  TITLE     Initial characterization of the human central proteome.
+  JOURNAL   BMC Syst. Biol. 5:17-17(2011).
+   PUBMED   21269460
+REFERENCE   19
+  AUTHORS   Navia M.A., McKeever B.M., Springer J.P., Lin T.-Y., Williams H.R.,
+            Fluder E.M., Dorn C.P., Hoogsteen K.
+  TITLE     Structure of human neutrophil elastase in complex with a peptide
+            chloromethyl ketone inhibitor at 1.84-A resolution.
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 86:7-11(1989).
+   PUBMED   2911584
+REFERENCE   20
+  AUTHORS   Wei A.-Z., Mayr I., Bode W.
+  TITLE     The refined 2.3-A crystal structure of human leukocyte elastase in a
+            complex with a valine chloromethyl ketone inhibitor.
+  JOURNAL   FEBS Lett. 234:367-373(1988).
+   PUBMED   3391280
+REFERENCE   21
+  AUTHORS   Bode W., Wei A.-Z., Huber R., Meyer E., Travis J., Neumann S.
+  TITLE     X-ray crystal structure of the complex of human leukocyte elastase
+            (PMN elastase) and the third domain of the turkey ovomucoid
+            inhibitor.
+  JOURNAL   EMBO J. 5:2453-2458(1986).
+   PUBMED   3640709
+REFERENCE   22
+  AUTHORS   Horwitz M., Benson K.F., Person R.E., Aprikyan A.G., Dale D.C.
+  TITLE     Mutations in ELA2, encoding neutrophil elastase, define a 21-day
+            biological clock in cyclic haematopoiesis.
+  JOURNAL   Nat. Genet. 23:433-436(1999).
+   PUBMED   10581030
+REFERENCE   23
+  AUTHORS   Dale D.C., Person R.E., Bolyard A.A., Aprikyan A.G., Bos C., Bonilla
+            M.A., Boxer L.A., Kannourakis G., Zeidler C., Welte K., Benson K.F.,
+            Horwitz M.
+  TITLE     Mutations in the gene encoding neutrophil elastase in congenital and
+            cyclic neutropenia.
+  JOURNAL   Blood 96:2317-2322(2000).
+   PUBMED   11001877
+REFERENCE   24
+  AUTHORS   Ancliff P.J., Gale R.E., Liesner R., Hann I.M., Linch D.C.
+  TITLE     Mutations in the ELA2 gene encoding neutrophil elastase are present
+            in most patients with sporadic severe congenital neutropenia but
+            only in some patients with the familial form of the disease.
+  JOURNAL   Blood 98:2645-2650(2001).
+   PUBMED   11675333
+REFERENCE   25
+  AUTHORS   Ancliff P.J., Gale R.E., Watts M.J., Liesner R., Hann I.M., Strobel
+            S., Linch D.C.
+  TITLE     Paternal mosaicism proves the pathogenic nature of mutations in
+            neutrophil elastase in severe congenital neutropenia.
+  JOURNAL   Blood 100:707-709(2002).
+   PUBMED   12091371
+REFERENCE   26
+  AUTHORS   Salipante S.J., Benson K.F., Luty J., Hadavi V., Kariminejad R.,
+            Kariminejad M.H., Rezaei N., Horwitz M.S.
+  TITLE     Double de novo mutations of ELA2 in cyclic and severe congenital
+            neutropenia.
+  JOURNAL   Hum. Mutat. 28:874-881(2007).
+   PUBMED   17436313
+REFERENCE   27
+  AUTHORS   Germeshausen M., Zeidler C., Stuhrmann M., Lanciotti M., Ballmaier
+            M., Welte K.
+  TITLE     Digenic mutations in severe congenital neutropenia.
+  JOURNAL   Haematologica 95:1207-1210(2010).
+   PUBMED   20220065
+COMMENT     FUNCTION: Modifies the functions of natural killer cells, monocytes
+            and granulocytes. Inhibits C5a-dependent neutrophil enzyme release
+            and chemotaxis.
+            CATALYTIC ACTIVITY: Hydrolysis of proteins, including elastin.
+            Preferential cleavage: Val-|-Xaa > Ala-|-Xaa.
+            SUBUNIT: Interacts with NOTCH2NL.
+            INTERACTION: Q07563:Col17a1 (xeno); NbExp=2; IntAct=EBI-986345,
+            EBI-6251005;
+            TISSUE SPECIFICITY: Bone marrow cells.
+            DISEASE: Cyclic haematopoiesis (CH) [MIM:162800]: Autosomal dominant
+            disease in which blood-cell production from the bone marrow
+            oscillates with 21-day periodicity. Circulating neutrophils vary
+            between almost normal numbers and zero. During intervals of
+            neutropenia, affected individuals are at risk for opportunistic
+            infection. Monocytes, platelets, lymphocytes and reticulocytes also
+            cycle with the same frequency. Note=The disease is caused by
+            mutations affecting the gene represented in this entry.
+            DISEASE: Neutropenia severe congenital autosomal dominant 1 (SCN1)
+            [MIM:202700]: A disorder of hematopoiesis characterized by
+            maturation arrest of granulopoiesis at the level of promyelocytes
+            with peripheral blood absolute neutrophil counts below 0.5 x 10(9)/l
+            and early onset of severe bacterial infections. Note=The disease is
+            caused by mutations affecting the gene represented in this entry.
+            SIMILARITY: Belongs to the peptidase S1 family. Elastase subfamily.
+            SIMILARITY: Contains 1 peptidase S1 domain.
+            SEQUENCE CAUTION: Sequence=CAA29300.1; Type=Erroneous initiation;
+            WEB RESOURCE: Name=ELA2base; Note=ELA2 mutation db;
+            URL="http://bioinf.uta.fi/ELA2base/";
+            WEB RESOURCE: Name=GeneReviews;
+            URL="http://www.ncbi.nlm.nih.gov/sites/GeneTests/lab/gene/ELA2";
+            WEB RESOURCE: Name=NIEHS-SNPs;
+            URL="http://egp.gs.washington.edu/data/ela2/";
+            WEB RESOURCE: Name=Wikipedia; Note=Elastase entry;
+            URL="http://en.wikipedia.org/wiki/Elastase";
+FEATURES             Location/Qualifiers
+     SIGNAL          1..27
+                     /description="Potential."
+     PROPEP          28..29
+                     /description
+     CHAIN           30..267
+                     /description="Neutrophil elastase."
+     DOMAIN          30..247
+                     /description="Peptidase S1."
+     ACT_SITE        70
+                     /description="Charge relay system."
+     ACT_SITE        117
+                     /description="Charge relay system."
+     ACT_SITE        202
+                     /description="Charge relay system."
+     CARBOHYD        88
+                     /description="N-linked (GlcNAc...)."
+     CARBOHYD        124
+                     /description="N-linked (GlcNAc...)."
+     CARBOHYD        173
+                     /description="N-linked (GlcNAc...)."
+     DISULFID        55..71
+                     /description
+     DISULFID        151..208
+                     /description
+     DISULFID        181..187
+                     /description
+     DISULFID        198..223
+                     /description
+     VARIANT         25
+                     /description="A -> V (in SCN1)."
+     VARIANT         32
+                     /description="G -> V (in CH)."
+     VARIANT         55
+                     /description="C -> Y (in GFI1)."
+     VARIANT         57
+                     /description="A -> T (in GFI1)."
+     VARIANT         60
+                     /description="I -> T (in GFI1)."
+     VARIANT         71
+                     /description="C -> R (in GFI1; dbSNP:rs28931611)."
+     VARIANT         71
+                     /description="C -> S (in GFI1)."
+     VARIANT         85
+                     /description="G -> E (in GFI1)."
+     VARIANT         98
+                     /description="V -> L (in GFI1; located on the same allele
+                     as L-101; reduces proteolytic enzyme activity by slightly
+                     less than half; together with L-101 shows an additive
+                     effect with minimal remaining enzyme activity)."
+     VARIANT         101
+                     /description="V -> L (in GFI1; located on the same allele
+                     as L-98; reduces proteolytic enzyme activity by slightly
+                     less than half; together with L-98 shows an additive effect
+                     with minimal remaining enzyme activity)."
+     VARIANT         101
+                     /description="V -> M (in GFI1; dbSNP:rs28929494)."
+     VARIANT         123
+                     /description="L -> PQL (in GFI1)."
+     VARIANT         126
+                     /description="S -> L (in GFI1)."
+     VARIANT         139
+                     /description="P -> L (in GFI1; dbSNP:rs28929493)."
+     VARIANT         151
+                     /description="C -> S (in GFI1)."
+     VARIANT         166
+                     /description="A -> T (in SCN1; the patient also carries
+                     mutation Lys-116 in G6PC3)."
+     VARIANT         177
+                     /description="V -> F (in CH)."
+     VARIANT         190..199
+                     /description="Missing (in GFI1)."
+     VARIANT         191
+                     /description="R -> Q (in CH; loss of interaction with
+                     NOTCH2NL and loss of NOTCH2NL and NOTCH2 proteolytic
+                     cleavage)."
+     VARIANT         205
+                     /description="P -> R (in GFI1)."
+     VARIANT         210
+                     /description="G -> V (in GFI1)."
+     VARIANT         214
+                     /description="G -> R (in GFI1)."
+     VARIANT         219
+                     /description="V -> I (in dbSNP:rs17216656)."
+     VARIANT         257
+                     /description="P -> L (in dbSNP:rs17216663)."
+     VARIANT         262
+                     /description="P -> L (in dbSNP:rs17216670)."
+     STRAND          44..49
+                     /description
+     STRAND          52..61
+                     /description
+     STRAND          64..67
+                     /description
+     HELIX           69..72
+                     /description
+     HELIX           77..79
+                     /description
+     STRAND          81..85
+                     /description
+     STRAND          97..107
+                     /description
+     TURN            111..114
+                     /description
+     STRAND          119..125
+                     /description
+     STRAND          130..132
+                     /description
+     STRAND          150..158
+                     /description
+     STRAND          160..162
+                     /description
+     STRAND          170..177
+                     /description
+     STRAND          185..189
+                     /description
+     STRAND          191..193
+                     /description
+     STRAND          205..208
+                     /description
+     STRAND          211..222
+                     /description
+     STRAND          226..228
+                     /description
+     STRAND          230..234
+                     /description
+     HELIX           235..238
+                     /description
+     HELIX           239..246
+                     /description
+ORIGIN
+        1 mtlgrrlacl flacvlpall lggtalasei vggrrarpha wpfmvslqlr gghfcgatli
+       61 apnfvmsaah cvanvnvrav rvvlgahnls rreptrqvfa vqrifengyd pvnllndivi
+      121 lqlngsatin anvqvaqlpa qgrrlgngvq clamgwgllg rnrgiasvlq elnvtvvtsl
+      181 crrsnvctlv rgrqagvcfg dsgsplvcng lihgiasfvr ggcasglypd afapvaqfvn
+      241 widsiiqrse dnpcphprdp dpasrth
+//
