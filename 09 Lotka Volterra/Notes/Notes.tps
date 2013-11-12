@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=Notes.tex
 
 [Frame0_View0,0]
-TopLine=210
-Cursor=0
+TopLine=150
+Cursor=6196
 
 [SessionInfo]
 FrameCount=1
